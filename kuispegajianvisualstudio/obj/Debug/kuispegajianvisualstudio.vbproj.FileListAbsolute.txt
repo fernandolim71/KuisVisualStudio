@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\bin\Debug\kuispegajianvisualstudio.exe.config
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\bin\Debug\kuispegajianvisualstudio.exe
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\bin\Debug\kuispegajianvisualstudio.pdb
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\bin\Debug\kuispegajianvisualstudio.xml
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\obj\Debug\kuispegajianvisualstudio.vbprojAssemblyReference.cache
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\obj\Debug\kuispegajianvisualstudio.Form1.resources
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\obj\Debug\kuispegajianvisualstudio.Resources.resources
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\obj\Debug\kuispegajianvisualstudio.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\obj\Debug\kuispegajianvisualstudio.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\obj\Debug\kuispegajianvisualstudio.exe
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\obj\Debug\kuispegajianvisualstudio.xml
+C:\Users\ACER\source\repos\kuispegajianvisualstudio\obj\Debug\kuispegajianvisualstudio.pdb
